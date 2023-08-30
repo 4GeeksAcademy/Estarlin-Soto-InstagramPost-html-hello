@@ -3,7 +3,7 @@ body{
     margin: 0;
     font-family: 'Inter', sans-serif;
     font-family: 'Roboto', sans-serif;
-    background-color: rgb(200, 200, 200);
+    background-color: rgb(222, 222, 222);
     
 }
 
@@ -19,28 +19,27 @@ body{
 
 img{
     margin: 10px 0px;
-    width: 400px;
+    
     max-width: 400px;
    
 }
 
 .name, .title{
-    margin: 0px;
+    margin: 0px
 }
 
 .bookmark{
-    margin-left: 65%;
-}
-
-.settings{
-    margin-left: 72%;
-    
+    margin-left: 60%;
 }
 
 
+.name-title{
+    margin-top: 20px;
+    margin-left: 5px;
+}
 
 .settings{
-    margin:10% 10% 0% 70%;
+    margin: 7% 10% 1px 70%;
 }
 
 .post-header{
@@ -49,16 +48,24 @@ img{
 }
 
 .post-icons{
-    margin: 0px 5px 5px 5px;
+    margin: 10px;
     display: flex;
+}
+
+.comment{
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .html5{
     margin-top: 30px;
     font-size: 20px;
+    margin-left: 10px;
 }
 
-
+.post-body{
+    padding: 10px;
+}
 
 .title{
     font-weight: 900;
