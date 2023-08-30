@@ -1,0 +1,65 @@
+
+body{
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(200, 200, 200);
+    
+}
+
+ 
+
+.post{
+    margin: auto;
+    width: 50%;
+    background-color: white;
+    width: 400px;
+    
+}
+
+img{
+    margin: 10px 0px;
+    width: 400px;
+    max-width: 400px;
+   
+}
+
+.name, .title{
+    margin: 0px;
+}
+
+.bookmark{
+    margin-left: 65%;
+}
+
+.settings{
+    margin-left: 72%;
+    
+}
+
+
+
+.settings{
+    margin:10% 10% 0% 70%;
+}
+
+.post-header{
+    
+    display: flex;
+}
+
+.post-icons{
+    margin: 0px 5px 5px 5px;
+    display: flex;
+}
+
+.html5{
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+
+
+.title{
+    font-weight: 900;
+}
